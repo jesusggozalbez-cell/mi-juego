@@ -98,7 +98,9 @@
   table.ranking th { color: var(--muted); font-weight: 600; }
   .hidden { display: none; }
 </style>
-</head>
+script>
+</head>async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9725841734787321"
+     crossorigin="anonymous"></script>
 <body>
 
 <!-- Espacio de anuncio (arriba) - reemplaza data-ad-client y data-ad-slot con los tuyos -->
