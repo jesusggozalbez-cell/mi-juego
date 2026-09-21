@@ -1,4 +1,5 @@
-# mi-juego
+# mi-juego <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9725841734787321"
+     crossorigin="anonymous"></script>
 <style>
   :root {
     --bg: #14100c;
